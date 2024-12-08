@@ -1,1 +1,1 @@
-# Sales-Performance-Dashboard-PowerBI
+A comprehensive sales performance analysis project created in Power BI, showcasing interactive dashboards with insights on revenue trends, category performance, top products, and key KPIs. Includes advanced DAX functions and data storytelling techniques to transform raw data into actionable insights.
